@@ -31,12 +31,13 @@
 
 ##  Hardware Components
 * **Microcontroller:** ESP32 DevKit V1
-* **Sensors:** * pH Sensor (Analog)
+* **Sensors:** 
+    * pH Sensor (Analog)
     * TDS Sensor (Total Dissolved Solids)
     * DS18B20 Temperature Sensor
 * **Actuators:** MG90S/SG90 Servo Motor (Feeder)
 * **Indicators:** 128x64 I2C OLED, Buzzer, Red/Green LEDs
-* **Power:** 5V/12V Power Supply
+* **Power:** Using four 18650 3.7V batteries (two batteries to powerup esp32 and other componemts, two batteries for powerup Servo motor)
 
 ---
 
