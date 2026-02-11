@@ -1,6 +1,6 @@
 # 🐟 Feedify - Smart Fish Feeding System
 
-![Feedify Logo](Feedify.jpeg)
+![Feedify Logo](images/Feedify.jpeg)
 
 **Feedify** is an ESP32-based IoT solution designed to automate fish feeding and monitor water quality in real time. Using Blynk IoT, the system tracks pH, TDS, and Temperature, ensuring your aquatic pets live in an ideal environment.
 
@@ -20,12 +20,12 @@
 ### Hardware Setup
 | Front View | Complete System |
 | :---: | :---: |
-| ![Frontside](Frontside.jpeg) | ![Final Setup](Final%20Setup.png) |
+| ![Frontside](images/Frontside.jpeg) | ![Final Setup](images/Final%20Setup.png) |
 
 ### Monitoring
 | Blynk Mobile App | Blynk Web Dashboard |
 | :---: | :---: |
-| ![Mobile](BLYNK_Mobile_Dashboard.jpg) | ![Web](BLYNK_Web_Dashboard.jpg) |
+| ![Mobile](images/BLYNK_Mobile_Dashboard.jpg) | ![Web](images/BLYNK_Web_Dashboard.jpg) |
 
 ---
 
@@ -41,7 +41,7 @@
 ---
 
 ## 🔌 Circuit Diagram
-![Wiring Diagram](Smart%20Fish%20Feeder%20System%20(Feedy)%20wiring%20diagram.png)
+![Wiring Diagram](images/Smart%20Fish%20Feeder%20System%20(Feedy)%20wiring%20diagram.png)
 
 ---
 
