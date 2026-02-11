@@ -46,6 +46,15 @@
 
 ---
 
+##  Documentation
+Access the full project documentation here: [Feedify Docs Folder](./docs/)
+
+* [Project Proposal](docs/Proposal.pdf)
+* [Progress Report](./docs/Progress_Report.pdf)
+
+  
+---
+
 ##  Setup Instructions
 1. **Libraries:** Install `Blynk`, `ESP32Servo`, `DallasTemperature`, `Adafruit_SSD1306`.
 2. **Blynk Config:** Replace `BLYNK_TEMPLATE_ID` and `BLYNK_AUTH_TOKEN` in the code with your credentials.
