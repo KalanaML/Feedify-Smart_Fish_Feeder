@@ -20,7 +20,7 @@
 ### Hardware Setup
 | Front View | Complete System |
 | :---: | :---: |
-| ![Frontside](images/Frontside.jpeg) | ![Final Setup](images/Final%20Setup.png) |
+| ![Frontside](images/Frontside%.jpeg) | ![Final Setup](images/Final%20Setup.png) |
 
 ### Monitoring
 | Blynk Mobile App | Blynk Web Dashboard |
