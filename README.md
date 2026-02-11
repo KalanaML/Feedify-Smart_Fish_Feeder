@@ -1,4 +1,4 @@
-# 🐟 Feedify - Smart Fish Feeding System
+#  Feedify - Smart Fish Feeding System
 
 ![Feedify Logo](images/Feedify.jpeg)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 * **Automated Feeding:** Scheduled morning and evening feeds with adjustable portion sizes.
 * **Water Quality Scoring:** Real-time analysis (GOOD, MODERATE, POOR) based on sensor data.
 * **Local & Remote Monitoring:** 0.96" OLED local display + Blynk Mobile/Web Dashboard.
@@ -15,7 +15,7 @@
 
 ---
 
-## 📸 Project Gallery
+##  Project Gallery
 
 ### Hardware Setup
 | Front View | Complete System |
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Hardware Components
+##  Hardware Components
 * **Microcontroller:** ESP32 DevKit V1
 * **Sensors:** * pH Sensor (Analog)
     * TDS Sensor (Total Dissolved Solids)
@@ -40,12 +40,12 @@
 
 ---
 
-## 🔌 Circuit Diagram
+##  Circuit Diagram
 ![Wiring Diagram](images/Smart%20Fish%20Feeder%20System%20(Feedy)%20wiring%20diagram.png)
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 1. **Libraries:** Install `Blynk`, `ESP32Servo`, `DallasTemperature`, `Adafruit_SSD1306`.
 2. **Blynk Config:** Replace `BLYNK_TEMPLATE_ID` and `BLYNK_AUTH_TOKEN` in the code with your credentials.
 3. **Wi-Fi:** Update `ssid` and `pass` in your `secrets.h` or main file.
@@ -53,5 +53,5 @@
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **KalanaML** - *Project Lead & Developer*
