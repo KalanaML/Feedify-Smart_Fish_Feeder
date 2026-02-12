@@ -38,7 +38,7 @@ This project addresses the challenges of maintaining consistent aquarium health 
 | :---: | :---: |
 | ![Mobile](images/BLYNK_Mobile_Dashboard.jpg) | ![Web](images/BLYNK_Web_Dashboard.jpg) |
 
-### System Internals
+### 🔧 System Internals
 | Internal Wiring | Feeder Mechanism |
 | :---: | :---: |
 | ![Testing](images/Sensor%20&%20OLED%20Display%20testing.jpeg) | ![Mechanism](images/Feeder%20mechanism.jpg) |
