@@ -77,7 +77,7 @@ The system utilizes a **Dual-Bank Power Supply** using four 18650 (3.7V) batteri
 | **IT25103933** | Wakishta N. N. | pH Monitoring | pH sensor integration, calibration, and local display logic. |
 | **IT25103934** | Ramanayake N. R. D. M. | Thermal Systems | Temperature data processing and local display. |
 | **IT25103935** | Anjana S. A. D. | Mobile IoT Development | Blynk Mobile app design and status LED logic. |
-| **IT25103936** | Nirmala S. G. R. S. | Software Architecture | Implementing the dynamic Water quality logic. |
+| **IT25103936** | Nirmala S. G. R. S. | Software Architecture | Implementing the dynamic Water quality logic and the Web dashboard also helped debug others’ code. |
 | **IT25103937** | Jayasundara W. G. C. | TDS Monitoring | TDS sensor calibration and purity analysis logic. |
 
 ---
